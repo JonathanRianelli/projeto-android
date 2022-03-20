@@ -1,9 +1,16 @@
-<h1>projeto-android</h1>
+# Projeto Android
 
 <p>Acesse o projeto <a href="https://jonathanrianelli.github.io/projeto-android/">aqui</a></p>
 
- <p>Projeto criado no curso do Gustavo Guanabara (<a href="https://www.youtube.com/c/CursoemV%C3%ADdeo">Curso em Vídeo</a>)</p>
+## Descrição
 
- <p align="center">
-  <img alt="Demo" src="./imagens/projeto-android.gif">
- </p>
+<p>Projeto criado no curso do Gustavo Guanabara (<a href="https://www.youtube.com/c/CursoemV%C3%ADdeo">Curso em Vídeo</a>)</p>
+
+
+## Linguagens Usadas
+- ✔️ HTML
+- ✔️ CSS
+
+## Layout 
+### Desktop:
+<img alt="Demo" src="./imagens/projeto-android.gif">
