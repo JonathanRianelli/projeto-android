@@ -7,7 +7,7 @@
 <p>Projeto criado no curso do Gustavo Guanabara (<a href="https://www.youtube.com/c/CursoemV%C3%ADdeo">Curso em Vídeo</a>)</p>
 
 
-## Linguagens Usadas
+## Tecnologias Usadas
 - ✔️ HTML
 - ✔️ CSS
 
